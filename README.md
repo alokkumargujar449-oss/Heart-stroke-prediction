@@ -3,6 +3,9 @@
 A Streamlit web app that predicts heart disease risk using a KNN classifier
 trained on the Cleveland Heart Disease dataset.
 
+
+## 🚀 Live Demo
+[![Open in Streamlit]https://heart-stroke-prediction-6kadmqkc8rxysr7agct4vo.streamlit.app/
 ---
 
 ## Project Structure
