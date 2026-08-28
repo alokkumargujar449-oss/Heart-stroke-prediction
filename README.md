@@ -5,7 +5,7 @@ trained on the Cleveland Heart Disease dataset.
 
 
 ## 🚀 Live Demo
-[![Open in Streamlit]https://heart-stroke-prediction-6kadmqkc8rxysr7agct4vo.streamlit.app/
+<h6>https://heart-stroke-prediction-6kadmqkc8rxysr7agct4vo.streamlit.app/</h6>
 ---
 
 ## Project Structure
